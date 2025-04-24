@@ -1,1 +1,33 @@
+Description 
+Micro, Small, and Medium Enterprises (UMKM) play a vital role in driving economic growth and job creation. However, many UMKM struggle to access the funding needed to expand their businesses. ModalRakyat aims to bridge this gap through a crowdfunding platform that connects UMKM with potential investors. By providing easier access to capital, this initiative supports entrepreneurship, promotes financial inclusion, and contributes to Sustainable Development Goal 8 (Decent Work and Economic Growth) by fostering business growth, creating job opportunities, and strengthening the local economy.
 
+Fitur:
+SignUp
+Login
+VerifyLogin
+EditProfile
+VerifyEdit
+UpdateProfile
+EditConfirmation
+ChooseProject
+InsertNominal
+InsertConfirmation
+Payment
+RateProject
+TrackInvestor
+Deposit
+InvestProject
+ManageProfile
+CreateInvestmentCampaign
+UpdateInvestor
+ManageUser
+MonitorTransaction
+InvestProjectMakeProjectApproval
+
+
+team member 
+1. Brian Chang (2702335761)
+2. ⁠Elmer Williams (2702284602)
+3. Marcellino Asanuddin (2702242650)
+4. David Arifin (2702331151)
+5. Yabes Mikael Sibarani (2702341474)
